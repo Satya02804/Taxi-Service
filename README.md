@@ -51,13 +51,6 @@ Import the SQL file from:
 
 /demo.sql
 
-```
-
-## 📄 License
-
-This project is for educational purposes. Modify and use it at your discretion.
-
-```
 
 ---
 
