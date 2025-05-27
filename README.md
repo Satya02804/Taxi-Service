@@ -47,8 +47,6 @@ create\_admin.php
 ## 📦 Database Schema
 
 Import the SQL file from:
-```
-
 /demo.sql
 
 
